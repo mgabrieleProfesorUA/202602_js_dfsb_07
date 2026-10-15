@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/mgabrieleProfesorUA/202602_js_dfsb_07#readme",
   "dependencies": {
-    "express": "^5.3.0"
+    "body-parser": "^2.3.0",
+    "express": "^5.3.0",
+    "theauthapi": "^1.0.18"
   }
 }
